@@ -2,7 +2,7 @@
 
 用 ReactJS 來做一個調整CSS數值，並對圖片產生邊框加粗、模糊、變色等效果
 
-## [DEMO](https://reactmaker.github.io/react_challenge_css_variables/#/)
+## [Demo](https://reactmaker.github.io/react_challenge_css_variables/#/)
 
 ## 特色
 
